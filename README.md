@@ -1,4 +1,4 @@
-Hello, World! I am Bill. I am interested in photography but I am also learning the basics of programming.
+Hello, World! I am Bill. I code on the SUPERIOR Godot engine. (joking)
 
 <!---
 BILLTFI9/BILLTFI9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
